@@ -10,3 +10,5 @@ TODO
 *.fls
 *.log
 *.out
+cmake-*/
+.idea/
